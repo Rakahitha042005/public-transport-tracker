@@ -1,0 +1,6 @@
+{
+  "name": "BusTrack Live",
+  "description": "Real-time public transport tracking system with passenger and driver dashboards.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": []
+}

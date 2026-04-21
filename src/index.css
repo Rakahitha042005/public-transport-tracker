@@ -1,0 +1,27 @@
+@import "tailwindcss";
+
+@theme {
+  --color-bg-main: #f8fafc;
+  --color-sidebar: #ffffff;
+  --color-primary: #2563eb;
+  --color-success: #10b981;
+  --color-warning: #f59e0b;
+  --color-text-main: #1e293b;
+  --color-text-muted: #64748b;
+  --color-border-main: #e2e8f0;
+  --shadow-main: 0 4px 6px -1px rgb(0 0 0 / 0.1);
+}
+
+@layer base {
+  body {
+    @apply bg-bg-main text-text-main font-sans;
+  }
+}
+
+.custom-bus-icon div {
+  @apply bg-primary p-2 rounded-full border-2 border-white shadow-lg text-white;
+}
+
+.custom-user-icon div {
+  @apply bg-rose-500 p-2 rounded-full border-2 border-white shadow-lg text-white;
+}

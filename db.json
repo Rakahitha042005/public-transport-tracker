@@ -1,0 +1,29 @@
+{
+  "drivers": [
+    {
+      "bus_number": "KA-01-F-1234",
+      "username": "driver1",
+      "password": "password123"
+    }
+  ],
+  "live_locations": {
+    "KA-01-J-5698": {
+      "busNumber": "KA-01-J-5698",
+      "routeId": "365K",
+      "lat": 12.9716,
+      "lng": 77.5946,
+      "speed": 0,
+      "status": "At Stop",
+      "last_updated": "2026-04-15T11:47:34.298Z"
+    },
+    "KA-01-L-6574": {
+      "busNumber": "KA-01-L-6574",
+      "routeId": "258G",
+      "lat": 12.98634021344321,
+      "lng": 77.52436272297493,
+      "speed": 0,
+      "status": "Running",
+      "last_updated": "2026-04-15T12:55:16.447Z"
+    }
+  }
+}

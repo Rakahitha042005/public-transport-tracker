@@ -1,0 +1,300 @@
+RouteID,RouteName,Via,StartLat,StartLng,EndLat,EndLng
+335E,Majestic to Kadugodi,Indiranagar - Marathahalli - Hope Farm,12.9767,77.5713,12.9986,77.7610
+500C,Banashankari to ITPL,Silk Board - Marathahalli - KR Puram,12.9156,77.5736,12.9863,77.7337
+G-3,Sarjapur to Brigade Road,Koramangala - Agara - Domlur,12.8649,77.7289,12.9716,77.6070
+201,Banashankari to CV Raman Nagar,Domlur - Indiranagar - BEML Gate,12.9156,77.5736,12.9830,77.6650
+365,Majestic to Bannerghatta Park,Dairy Circle - Jayadeva - Gottigere,12.9767,77.5713,12.8343,77.5761
+500A,Hebbal to Banashankari,Marathahalli - Silk Board - BTM Layout,13.0358,77.5970,12.9156,77.5736
+KBS-3A,Majestic to Electronic City,Silk Board - HSR Layout - Bommanahalli,12.9767,77.5713,12.8452,77.6632
+V-335E,Majestic to Kadugodi (Volvo),Indiranagar - Marathahalli - Hope Farm,12.9767,77.5713,12.9986,77.7610
+276,Majestic to Vidyaranyapura,Malleswaram - Yeshwanthpur - BEL Circle,12.9767,77.5713,13.0772,77.5564
+401B,Yelahanka to Kengeri,Hebbal - Yeshwanthpur - Magadi Road,13.1007,77.5963,12.9175,77.4838
+330G,Majestic to Whitefield,Indiranagar - HAL - Varthur,12.9767,77.5713,12.9698,77.7499
+500D,Hebbal to Central Silk Board,Kalyan Nagar - Marathahalli - Bellandur,13.0358,77.5970,12.9172,77.6238
+MF-12,Koramangala to Indiranagar,Domlur - Embassy Golf Links,12.9352,77.6245,12.9784,77.6408
+250,Majestic to Hesaraghatta,Yeshwanthpur - Jalahalli Cross,12.9767,77.5713,13.1364,77.4855
+356,Majestic to Attibele,Silk Board - Electronic City - Chandapura,12.9767,77.5713,12.7774,77.7665
+171,Majestic to Koramangala,Dairy Circle - Adugodi,12.9767,77.5713,12.9352,77.6245
+V-500C,Banashankari to ITPL (Volvo),Silk Board - Marathahalli,12.9156,77.5736,12.9863,77.7337
+600,Banashankari to Electronic City,Silk Board - BTM Layout,12.9156,77.5736,12.8452,77.6632
+210,Majestic to ISRO Layout,Jayanagar - Banashankari,12.9767,77.5713,12.9015,77.5645
+328,Shivajinagar to Hoskote,Indiranagar - KR Puram,12.9857,77.5950,13.0699,77.7982
+1,Majestic to Jayanagar,Corporation - Lalbagh,12.9767,77.5713,12.9299,77.5800
+2,Majestic to JP Nagar,Dairy Circle - Bannerghatta Road,12.9767,77.5713,12.9063,77.5857
+3,Majestic to BTM Layout,Silk Board - Madivala,12.9767,77.5713,12.9165,77.6101
+4,Majestic to HSR Layout,Agara - Silk Board,12.9767,77.5713,12.9128,77.6388
+5,Majestic to Bellandur,Eco Space - Marathahalli,12.9767,77.5713,12.9304,77.6784
+6,Majestic to Varthur,HAL - Whitefield,12.9767,77.5713,12.9406,77.7465
+7,Majestic to Hope Farm,ITPL - Kadugodi,12.9767,77.5713,12.9845,77.7521
+8,Majestic to KR Puram,Tin Factory - ITI,12.9767,77.5713,13.0163,77.7044
+9,Majestic to Hebbal,Mekhri Circle - RT Nagar,12.9767,77.5713,13.0358,77.5970
+10,Majestic to Yelahanka,Sahakar Nagar - Byatarayanapura,12.9767,77.5713,13.1007,77.5963
+11,Majestic to Jalahalli,Yeshwanthpur - BEL,12.9767,77.5713,13.0500,77.5400
+12,Majestic to Peenya,Dasarahalli - Jalahalli Cross,12.9767,77.5713,13.0300,77.5200
+13,Majestic to Nelamangala,8th Mile - Peenya,12.9767,77.5713,13.0900,77.3900
+14,Majestic to Magadi Road,Kamaksipalya - Sunkadakatte,12.9767,77.5713,12.9700,77.4800
+15,Majestic to Vijayanagar,RPC Layout - Attiguppe,12.9767,77.5713,12.9600,77.5300
+16,Majestic to Nagarbhavi,University - Deepanjali Nagar,12.9767,77.5713,12.9500,77.5100
+17,Majestic to Kengeri,RV College - Mysore Road,12.9767,77.5713,12.9175,77.4838
+18,Majestic to Rajarajeshwari Nagar,Ideal Homes - BEML Layout,12.9767,77.5713,12.9200,77.5200
+19,Majestic to Uttarahalli,Padmanabhanagar - Chikkalasandra,12.9767,77.5713,12.9000,77.5400
+20,Majestic to Banashankari,Hanumanthanagar - Srinagar,12.9767,77.5713,12.9156,77.5736
+21,Shivajinagar to Jayanagar,Brigade Road - Richmond Circle,12.9857,77.5950,12.9299,77.5800
+22,Shivajinagar to JP Nagar,Koramangala - Dairy Circle,12.9857,77.5950,12.9063,77.5857
+23,Shivajinagar to BTM Layout,Adugodi - Madivala,12.9857,77.5950,12.9165,77.6101
+24,Shivajinagar to HSR Layout,Agara - Koramangala,12.9857,77.5950,12.9128,77.6388
+25,Shivajinagar to Bellandur,Domlur - Marathahalli,12.9857,77.5950,12.9304,77.6784
+26,Shivajinagar to Varthur,HAL - Brookefield,12.9857,77.5950,12.9406,77.7465
+27,Shivajinagar to Hope Farm,ITPL - Whitefield,12.9857,77.5950,12.9845,77.7521
+28,Shivajinagar to KR Puram,Ulsoor - Tin Factory,12.9857,77.5950,13.0163,77.7044
+29,Shivajinagar to Hebbal,Cantonment - RT Nagar,12.9857,77.5950,13.0358,77.5970
+30,Shivajinagar to Yelahanka,Hebbal - Sahakar Nagar,12.9857,77.5950,13.1007,77.5963
+31,Koramangala to Majestic,Adugodi - Corporation,12.9352,77.6245,12.9767,77.5713
+32,Koramangala to Shivajinagar,Domlur - MG Road,12.9352,77.6245,12.9857,77.5950
+33,Koramangala to Jayanagar,Dairy Circle - Lalbagh,12.9352,77.6245,12.9299,77.5800
+34,Koramangala to JP Nagar,BTM Layout - Bannerghatta Road,12.9352,77.6245,12.9063,77.5857
+35,Koramangala to BTM Layout,Madivala - Silk Board,12.9352,77.6245,12.9165,77.6101
+36,Koramangala to HSR Layout,Agara - Iblur,12.9352,77.6245,12.9128,77.6388
+37,Koramangala to Bellandur,Sarjapur Road - Iblur,12.9352,77.6245,12.9304,77.6784
+38,Koramangala to Varthur,Marathahalli - Brookefield,12.9352,77.6245,12.9406,77.7465
+39,Koramangala to Hope Farm,ITPL - Kadugodi,12.9352,77.6245,12.9845,77.7521
+40,Koramangala to KR Puram,Indiranagar - Tin Factory,12.9352,77.6245,13.0163,77.7044
+41,Indiranagar to Majestic,Ulsoor - MG Road,12.9784,77.6408,12.9767,77.5713
+42,Indiranagar to Shivajinagar,Ulsoor - Commercial Street,12.9784,77.6408,12.9857,77.5950
+43,Indiranagar to Jayanagar,Domlur - Koramangala,12.9784,77.6408,12.9299,77.5800
+44,Indiranagar to JP Nagar,BTM Layout - Bannerghatta Road,12.9784,77.6408,12.9063,77.5857
+45,Indiranagar to BTM Layout,Domlur - Koramangala,12.9784,77.6408,12.9165,77.6101
+46,Indiranagar to HSR Layout,Domlur - Agara,12.9784,77.6408,12.9128,77.6388
+47,Indiranagar to Bellandur,Marathahalli - Eco Space,12.9784,77.6408,12.9304,77.6784
+48,Indiranagar to Varthur,HAL - Brookefield,12.9784,77.6408,12.9406,77.7465
+49,Indiranagar to Hope Farm,ITPL - Whitefield,12.9784,77.6408,12.9845,77.7521
+50,Indiranagar to KR Puram,CV Raman Nagar - Tin Factory,12.9784,77.6408,13.0163,77.7044
+51,Whitefield to Majestic,Marathahalli - Indiranagar,12.9698,77.7499,12.9767,77.5713
+52,Whitefield to Shivajinagar,HAL - MG Road,12.9698,77.7499,12.9857,77.5950
+53,Whitefield to Koramangala,Marathahalli - Domlur,12.9698,77.7499,12.9352,77.6245
+54,Whitefield to Jayanagar,Silk Board - BTM Layout,12.9698,77.7499,12.9299,77.5800
+55,Whitefield to JP Nagar,Silk Board - Bannerghatta Road,12.9698,77.7499,12.9063,77.5857
+56,Whitefield to BTM Layout,Marathahalli - Silk Board,12.9698,77.7499,12.9165,77.6101
+57,Whitefield to HSR Layout,Marathahalli - Agara,12.9698,77.7499,12.9128,77.6388
+58,Whitefield to Bellandur,Marathahalli - Eco Space,12.9698,77.7499,12.9304,77.6784
+59,Whitefield to Hebbal,KR Puram - Kalyan Nagar,12.9698,77.7499,13.0358,77.5970
+60,Whitefield to Yelahanka,KR Puram - Hebbal,12.9698,77.7499,13.1007,77.5963
+61,Electronic City to Majestic,Silk Board - Dairy Circle,12.8452,77.6632,12.9767,77.5713
+62,Electronic City to Shivajinagar,Silk Board - Koramangala,12.8452,77.6632,12.9857,77.5950
+63,Electronic City to Koramangala,HSR Layout - Madivala,12.8452,77.6632,12.9352,77.6245
+64,Electronic City to Jayanagar,Silk Board - BTM Layout,12.8452,77.6632,12.9299,77.5800
+65,Electronic City to JP Nagar,Silk Board - Bannerghatta Road,12.8452,77.6632,12.9063,77.5857
+66,Electronic City to BTM Layout,Silk Board - Madivala,12.8452,77.6632,12.9165,77.6101
+67,Electronic City to HSR Layout,Bommanahalli - Agara,12.8452,77.6632,12.9128,77.6388
+68,Electronic City to Bellandur,Silk Board - Marathahalli,12.8452,77.6632,12.9304,77.6784
+69,Electronic City to Hebbal,Silk Board - Marathahalli - KR Puram,12.8452,77.6632,13.0358,77.5970
+70,Electronic City to Yelahanka,Silk Board - Hebbal,12.8452,77.6632,13.1007,77.5963
+71,Bannerghatta to Majestic,Jayadeva - Dairy Circle,12.8343,77.5761,12.9767,77.5713
+72,Bannerghatta to Shivajinagar,Dairy Circle - MG Road,12.8343,77.5761,12.9857,77.5950
+73,Bannerghatta to Koramangala,BTM Layout - Madivala,12.8343,77.5761,12.9352,77.6245
+74,Bannerghatta to Jayanagar,Gottigere - JP Nagar,12.8343,77.5761,12.9299,77.5800
+75,Bannerghatta to JP Nagar,Gottigere - Hulimavu,12.8343,77.5761,12.9063,77.5857
+76,Bannerghatta to BTM Layout,Jayadeva - Silk Board,12.8343,77.5761,12.9165,77.6101
+77,Bannerghatta to HSR Layout,Silk Board - Agara,12.8343,77.5761,12.9128,77.6388
+78,Bannerghatta to Bellandur,Silk Board - Marathahalli,12.8343,77.5761,12.9304,77.6784
+79,Bannerghatta to Hebbal,Silk Board - KR Puram,12.8343,77.5761,13.0358,77.5970
+80,Bannerghatta to Yelahanka,Silk Board - Hebbal,12.8343,77.5761,13.1007,77.5963
+81,Hebbal to Majestic,Mekhri Circle - Cantonment,13.0358,77.5970,12.9767,77.5713
+82,Hebbal to Shivajinagar,RT Nagar - Cantonment,13.0358,77.5970,12.9857,77.5950
+83,Hebbal to Koramangala,Kalyan Nagar - Indiranagar,13.0358,77.5970,12.9352,77.6245
+84,Hebbal to Jayanagar,Mekhri Circle - Corporation,13.0358,77.5970,12.9299,77.5800
+85,Hebbal to JP Nagar,Dairy Circle - Bannerghatta Road,13.0358,77.5970,12.9063,77.5857
+86,Hebbal to BTM Layout,Marathahalli - Silk Board,13.0358,77.5970,12.9165,77.6101
+87,Hebbal to HSR Layout,Kalyan Nagar - Agara,13.0358,77.5970,12.9128,77.6388
+88,Hebbal to Bellandur,Marathahalli - Eco Space,13.0358,77.5970,12.9304,77.6784
+89,Hebbal to Whitefield,Kalyan Nagar - KR Puram,13.0358,77.5970,12.9698,77.7499
+90,Hebbal to Electronic City,Marathahalli - Silk Board,13.0358,77.5970,12.8452,77.6632
+91,Yelahanka to Majestic,Hebbal - Mekhri Circle,13.1007,77.5963,12.9767,77.5713
+92,Yelahanka to Shivajinagar,Hebbal - RT Nagar,13.1007,77.5963,12.9857,77.5950
+93,Yelahanka to Koramangala,Hebbal - Indiranagar,13.1007,77.5963,12.9352,77.6245
+94,Yelahanka to Jayanagar,Hebbal - Corporation,13.1007,77.5963,12.9299,77.5800
+95,Yelahanka to JP Nagar,Hebbal - Bannerghatta Road,13.1007,77.5963,12.9063,77.5857
+96,Yelahanka to BTM Layout,Hebbal - Silk Board,13.1007,77.5963,12.9165,77.6101
+97,Yelahanka to HSR Layout,Hebbal - Agara,13.1007,77.5963,12.9128,77.6388
+98,Yelahanka to Bellandur,Hebbal - Marathahalli,13.1007,77.5963,12.9304,77.6784
+99,Yelahanka to Whitefield,Hebbal - KR Puram,13.1007,77.5963,12.9698,77.7499
+100,Yelahanka to Electronic City,Hebbal - Silk Board,13.1007,77.5963,12.8452,77.6632
+101,Kengeri to Majestic,Mysore Road - RV College,12.9175,77.4838,12.9767,77.5713
+102,Kengeri to Shivajinagar,Mysore Road - Corporation,12.9175,77.4838,12.9857,77.5950
+103,Kengeri to Koramangala,Mysore Road - Dairy Circle,12.9175,77.4838,12.9352,77.6245
+104,Kengeri to Jayanagar,Mysore Road - Banashankari,12.9175,77.4838,12.9299,77.5800
+105,Kengeri to JP Nagar,Mysore Road - JP Nagar,12.9175,77.4838,12.9063,77.5857
+106,Kengeri to BTM Layout,Mysore Road - Silk Board,12.9175,77.4838,12.9165,77.6101
+107,Kengeri to HSR Layout,Mysore Road - Agara,12.9175,77.4838,12.9128,77.6388
+108,Kengeri to Bellandur,Mysore Road - Marathahalli,12.9175,77.4838,12.9304,77.6784
+109,Kengeri to Whitefield,Mysore Road - KR Puram,12.9175,77.4838,12.9698,77.7499
+110,Kengeri to Electronic City,Mysore Road - Silk Board,12.9175,77.4838,12.8452,77.6632
+111,Peenya to Majestic,Yeshwanthpur - Malleswaram,13.0300,77.5200,12.9767,77.5713
+112,Peenya to Shivajinagar,Yeshwanthpur - Cantonment,13.0300,77.5200,12.9857,77.5950
+113,Peenya to Koramangala,Yeshwanthpur - Indiranagar,13.0300,77.5200,12.9352,77.6245
+114,Peenya to Jayanagar,Yeshwanthpur - Corporation,13.0300,77.5200,12.9299,77.5800
+115,Peenya to JP Nagar,Yeshwanthpur - Bannerghatta Road,13.0300,77.5200,12.9063,77.5857
+116,Peenya to BTM Layout,Yeshwanthpur - Silk Board,13.0300,77.5200,12.9165,77.6101
+117,Peenya to HSR Layout,Yeshwanthpur - Agara,13.0300,77.5200,12.9128,77.6388
+118,Peenya to Bellandur,Yeshwanthpur - Marathahalli,13.0300,77.5200,12.9304,77.6784
+119,Peenya to Whitefield,Yeshwanthpur - KR Puram,13.0300,77.5200,12.9698,77.7499
+120,Peenya to Electronic City,Yeshwanthpur - Silk Board,13.0300,77.5200,12.8452,77.6632
+121,Doddaballapur to Majestic,Yelahanka - Hebbal,13.2923,77.5431,12.9767,77.5713
+122,Hoskote to Majestic,KR Puram - Tin Factory,13.0699,77.7982,12.9767,77.5713
+123,Sarjapur to Majestic,Agara - Koramangala,12.8649,77.7289,12.9767,77.5713
+124,Chandapura to Majestic,Electronic City - Silk Board,12.7854,77.7011,12.9767,77.5713
+125,Anekal to Majestic,Chandapura - Silk Board,12.7100,77.7000,12.9767,77.5713
+126,Harohalli to Majestic,Kanakapura Road - Banashankari,12.6600,77.4600,12.9767,77.5713
+127,Bidadi to Majestic,Mysore Road - Kengeri,12.8000,77.3300,12.9767,77.5713
+128,Tavarekere to Majestic,Magadi Road - Sunkadakatte,12.9300,77.4100,12.9767,77.5713
+129,Hesaraghatta to Majestic,Jalahalli Cross - Yeshwanthpur,13.1364,77.4855,12.9767,77.5713
+130,Rajanukunte to Majestic,Yelahanka - Hebbal,13.1700,77.5500,12.9767,77.5713
+131,Bagalur to Majestic,Kothanur - Hennur,13.1300,77.6700,12.9767,77.5713
+132,Budigere to Majestic,Old Madras Road - KR Puram,13.1200,77.7400,12.9767,77.5713
+133,Kanakapura to Majestic,Harohalli - Banashankari,12.5500,77.4200,12.9767,77.5713
+134,Magadi to Majestic,Tavarekere - Magadi Road,12.9600,77.2300,12.9767,77.5713
+135,Devenahalli to Majestic,International Airport - Hebbal,13.2500,77.7100,12.9767,77.5713
+136,Attibele to Shivajinagar,Electronic City - Koramangala,12.7774,77.7665,12.9857,77.5950
+137,Kadugodi to Banashankari,Marathahalli - Silk Board,12.9986,77.7610,12.9156,77.5736
+138,Yelahanka to ITPL,Hebbal - KR Puram,13.1007,77.5963,12.9863,77.7337
+139,Kengeri to Whitefield,Mysore Road - Silk Board - Marathahalli,12.9175,77.4838,12.9698,77.7499
+140,Nelamangala to Electronic City,Peenya - Silk Board,13.0900,77.3900,12.8452,77.6632
+141,Banashankari to Hebbal,Silk Board - Marathahalli,12.9156,77.5736,13.0358,77.5970
+142,Jayanagar to Whitefield,Koramangala - Marathahalli,12.9299,77.5800,12.9698,77.7499
+143,JP Nagar to ITPL,BTM Layout - Silk Board - KR Puram,12.9063,77.5857,12.9863,77.7337
+144,BTM Layout to Yelahanka,Silk Board - Hebbal,12.9165,77.6101,13.1007,77.5963
+145,HSR Layout to Kengeri,Silk Board - Banashankari,12.9128,77.6388,12.9175,77.4838
+146,Bellandur to Peenya,Marathahalli - Hebbal,12.9304,77.6784,13.0300,77.5200
+147,Varthur to Majestic,HAL - Indiranagar,12.9406,77.7465,12.9767,77.5713
+148,Hope Farm to Shivajinagar,Whitefield - HAL,12.9845,77.7521,12.9857,77.5950
+149,KR Puram to Banashankari,Tin Factory - Silk Board,13.0163,77.7044,12.9156,77.5736
+150,Hebbal to Kengeri,Yeshwanthpur - Magadi Road,13.0358,77.5970,12.9175,77.4838
+151,Yelahanka to Sarjapur,Hebbal - Marathahalli,13.1007,77.5963,12.8649,77.7289
+152,Jalahalli to Electronic City,Yeshwanthpur - Silk Board,13.0500,77.5400,12.8452,77.6632
+153,Peenya to Bannerghatta,Yeshwanthpur - Jayanagar,13.0300,77.5200,12.8343,77.5761
+154,Nelamangala to Whitefield,Peenya - Hebbal - KR Puram,13.0900,77.3900,12.9698,77.7499
+155,Magadi Road to Electronic City,Kengeri - Silk Board,12.9700,77.4800,12.8452,77.6632
+156,Vijayanagar to ITPL,Majestic - Indiranagar,12.9600,77.5300,12.9863,77.7337
+157,Nagarbhavi to Hebbal,Magadi Road - Yeshwanthpur,12.9500,77.5100,13.0358,77.5970
+158,Kengeri to Shivajinagar,Mysore Road - Corporation,12.9175,77.4838,12.9857,77.5950
+159,Rajarajeshwari Nagar to Majestic,Mysore Road - Satellite Bus Stand,12.9200,77.5200,12.9767,77.5713
+160,Uttarahalli to Shivajinagar,Banashankari - Jayanagar,12.9000,77.5400,12.9857,77.5950
+161,Banashankari to Whitefield,Silk Board - Marathahalli,12.9156,77.5736,12.9698,77.7499
+162,Jayanagar to Yelahanka,Corporation - Hebbal,12.9299,77.5800,13.1007,77.5963
+163,JP Nagar to Hebbal,Dairy Circle - Mekhri Circle,12.9063,77.5857,13.0358,77.5970
+164,BTM Layout to Kengeri,Banashankari - Mysore Road,12.9165,77.6101,12.9175,77.4838
+165,HSR Layout to Peenya,Silk Board - Hebbal,12.9128,77.6388,13.0300,77.5200
+166,Bellandur to Majestic,Marathahalli - Indiranagar,12.9304,77.6784,12.9767,77.5713
+167,Varthur to Shivajinagar,HAL - MG Road,12.9406,77.7465,12.9857,77.5950
+168,Hope Farm to Banashankari,Marathahalli - Silk Board,12.9845,77.7521,12.9156,77.5736
+169,KR Puram to Kengeri,Tin Factory - Majestic,13.0163,77.7044,12.9175,77.4838
+170,Hebbal to Electronic City,Marathahalli - Silk Board,13.0358,77.5970,12.8452,77.6632
+171,Yelahanka to Majestic,Hebbal - Mekhri Circle,13.1007,77.5963,12.9767,77.5713
+172,Jalahalli to Whitefield,Hebbal - KR Puram,13.0500,77.5400,12.9698,77.7499
+173,Peenya to Shivajinagar,Yeshwanthpur - Cantonment,13.0300,77.5200,12.9857,77.5950
+174,Nelamangala to Majestic,Peenya - Yeshwanthpur,13.0900,77.3900,12.9767,77.5713
+175,Magadi Road to Shivajinagar,Majestic - Corporation,12.9700,77.4800,12.9857,77.5950
+176,Vijayanagar to Banashankari,Mysore Road - Srinagar,12.9600,77.5300,12.9156,77.5736
+177,Nagarbhavi to Jayanagar,Mysore Road - Banashankari,12.9500,77.5100,12.9299,77.5800
+178,Kengeri to Koramangala,Mysore Road - Dairy Circle,12.9175,77.4838,12.9352,77.6245
+179,Rajarajeshwari Nagar to Shivajinagar,Mysore Road - MG Road,12.9200,77.5200,12.9857,77.5950
+180,Uttarahalli to Majestic,Padmanabhanagar - Corporation,12.9000,77.5400,12.9767,77.5713
+181,Banashankari to Shivajinagar,Jayanagar - Corporation,12.9156,77.5736,12.9857,77.5950
+182,Jayanagar to Majestic,Corporation - Majestic,12.9299,77.5800,12.9767,77.5713
+183,JP Nagar to Shivajinagar,Dairy Circle - MG Road,12.9063,77.5857,12.9857,77.5950
+184,BTM Layout to Majestic,Silk Board - Corporation,12.9165,77.6101,12.9767,77.5713
+185,HSR Layout to Shivajinagar,Agara - MG Road,12.9128,77.6388,12.9857,77.5950
+186,Bellandur to Shivajinagar,Marathahalli - MG Road,12.9304,77.6784,12.9857,77.5950
+187,Varthur to Banashankari,Marathahalli - Silk Board,12.9406,77.7465,12.9156,77.5736
+188,Hope Farm to Majestic,Indiranagar - Majestic,12.9845,77.7521,12.9767,77.5713
+189,KR Puram to Shivajinagar,Ulsoor - MG Road,13.0163,77.7044,12.9857,77.5950
+190,Hebbal to Shivajinagar,RT Nagar - Cantonment,13.0358,77.5970,12.9857,77.5950
+191,Yelahanka to Shivajinagar,Hebbal - Cantonment,13.1007,77.5963,12.9857,77.5950
+192,Jalahalli to Majestic,Yeshwanthpur - Majestic,13.0500,77.5400,12.9767,77.5713
+193,Peenya to Majestic,Yeshwanthpur - Majestic,13.0300,77.5200,12.9767,77.5713
+194,Nelamangala to Shivajinagar,Peenya - Cantonment,13.0900,77.3900,12.9857,77.5950
+195,Magadi Road to Majestic,Magadi Road - Majestic,12.9700,77.4800,12.9767,77.5713
+196,Vijayanagar to Shivajinagar,Majestic - MG Road,12.9600,77.5300,12.9857,77.5950
+197,Nagarbhavi to Majestic,Majestic - Nagarbhavi,12.9500,77.5100,12.9767,77.5713
+198,Kengeri to Majestic,Mysore Road - Majestic,12.9175,77.4838,12.9767,77.5713
+199,Rajarajeshwari Nagar to Majestic,Mysore Road - Majestic,12.9200,77.5200,12.9767,77.5713
+200,Uttarahalli to Majestic,Padmanabhanagar - Majestic,12.9000,77.5400,12.9767,77.5713
+201,Banashankari to Majestic,Banashankari - Majestic,12.9156,77.5736,12.9767,77.5713
+202,Jayanagar to Shivajinagar,Jayanagar - Shivajinagar,12.9299,77.5800,12.9857,77.5950
+203,JP Nagar to Majestic,JP Nagar - Majestic,12.9063,77.5857,12.9767,77.5713
+204,BTM Layout to Shivajinagar,BTM Layout - Shivajinagar,12.9165,77.6101,12.9857,77.5950
+205,HSR Layout to Majestic,HSR Layout - Majestic,12.9128,77.6388,12.9767,77.5713
+206,Bellandur to Majestic,Bellandur - Majestic,12.9304,77.6784,12.9767,77.5713
+207,Varthur to Majestic,Varthur - Majestic,12.9406,77.7465,12.9767,77.5713
+208,Hope Farm to Majestic,Hope Farm - Majestic,12.9845,77.7521,12.9767,77.5713
+209,KR Puram to Majestic,KR Puram - Majestic,13.0163,77.7044,12.9767,77.5713
+210,Hebbal to Majestic,Hebbal - Majestic,13.0358,77.5970,12.9767,77.5713
+211,Yelahanka to Majestic,Yelahanka - Majestic,13.1007,77.5963,12.9767,77.5713
+212,Jalahalli to Majestic,Jalahalli - Majestic,13.0500,77.5400,12.9767,77.5713
+213,Peenya to Majestic,Peenya - Majestic,13.0300,77.5200,12.9767,77.5713
+214,Nelamangala to Majestic,Nelamangala - Majestic,13.0900,77.3900,12.9767,77.5713
+215,Magadi Road to Majestic,Magadi Road - Majestic,12.9700,77.4800,12.9767,77.5713
+216,Vijayanagar to Majestic,Vijayanagar - Majestic,12.9600,77.5300,12.9767,77.5713
+217,Nagarbhavi to Majestic,Nagarbhavi - Majestic,12.9500,77.5100,12.9767,77.5713
+218,Kengeri to Majestic,Kengeri - Majestic,12.9175,77.4838,12.9767,77.5713
+219,Rajarajeshwari Nagar to Majestic,Rajarajeshwari Nagar - Majestic,12.9200,77.5200,12.9767,77.5713
+220,Uttarahalli to Majestic,Uttarahalli - Majestic,12.9000,77.5400,12.9767,77.5713
+401B,Yelahanka to Kengeri,Hebbal - Yeshwanthpur - Rajajinagar,13.1007,77.5963,12.9176,77.4837
+500D,Hebbal to Central Silk Board,KR Puram - Marathahalli - Bellandur,13.0358,77.5970,12.9172,77.6228
+250,Majestic to Hessarghatta,Malleswaram - Yeshwanthpur - Jalahalli,12.9767,77.5713,13.1300,77.4800
+360,Majestic to Attibele,Silk Board - Electronic City - Bommasandra,12.9767,77.5713,12.7800,77.7700
+210,Majestic to Kaggalipura,Banashankari - Konanakunte - Thalaghattapura,12.9767,77.5713,12.8200,77.5300
+226,Majestic to Bidadi,Mysore Road - Kengeri - Kumbalgodu,12.9767,77.5713,12.8000,77.4000
+333,Majestic to Whitefield,Domlur - HAL - Marathahalli,12.9767,77.5713,12.9698,77.7500
+502,Hebbal to Banashankari,BEL Circle - Yeshwanthpur - Vijayanagar,13.0358,77.5970,12.9156,77.5736
+600,Banashankari to Yelahanka,Jayanagar - MG Road - Hebbal,12.9156,77.5736,13.1007,77.5963
+285,Majestic to Doddaballapur,Hebbal - Yelahanka - Rajankunte,12.9767,77.5713,13.2900,77.5400
+305,Majestic to Hoskote,KR Puram - Avalahalli - Budigere,12.9767,77.5713,13.0700,77.8000
+342,Majestic to Sarjapur,Koramangala - Agara - Dommasandra,12.9767,77.5713,12.8600,77.7800
+271,Majestic to Jalahalli East,Malleswaram - Yeshwanthpur - BEL,12.9767,77.5713,13.0600,77.5400
+402,Majestic to Yelahanka Satellite Town,Hebbal - Kodigehalli - Sahakarnagar,12.9767,77.5713,13.0900,77.5800
+500Q,Hebbal to ITPL,KR Puram - Mahadevapura - Graphite India,13.0358,77.5970,12.9863,77.7337
+201R,Banashankari to Rajajinagar,Jayanagar - Wilson Garden - Majestic,12.9156,77.5736,12.9900,77.5500
+365P,Majestic to Jigani,Bannerghatta Road - Gottigere - Koppa,12.9767,77.5713,12.7800,77.6300
+410,Jalahalli to Banashankari,Yeshwanthpur - Rajajinagar - Vijayanagar,13.0400,77.5400,12.9156,77.5736
+501,Hebbal to Kengeri,Laggere - Kamakshipalya - Vijayanagar,13.0358,77.5970,12.9176,77.4837
+330,Majestic to Kadugodi,Indiranagar - Marathahalli - Varthur,12.9767,77.5713,12.9900,77.7600
+258,Majestic to Nelamangala,Yeshwanthpur - Jalahalli - Dasarahalli,12.9767,77.5713,13.0900,77.3900
+356,Majestic to Electronic City,Silk Board - Bommanahalli - Kudlu Gate,12.9767,77.5713,12.8400,77.6600
+290,Majestic to RT Nagar,Cantonment - TV Tower - Ganganagar,12.9767,77.5713,13.0200,77.5900
+171,Majestic to Koramangala,Richmond Circle - Shanthinagar - Adugodi,12.9767,77.5713,12.9300,77.6200
+401,Yelahanka to Yeshwanthpur,Hebbal - BEL Circle - MS Ramaiah,13.1007,77.5963,13.0300,77.5500
+500L,Hebbal to Silk Board,KR Puram - Marathahalli - Bellandur,13.0358,77.5970,12.9172,77.6228
+215,Majestic to JP Nagar 6th Phase,Jayanagar - Sangam Circle - Sarakki,12.9767,77.5713,12.9100,77.5800
+328,Majestic to Varthur,Domlur - Marathahalli - Gunjur,12.9767,77.5713,12.9400,77.7400
+241,Majestic to Rajajinagar 1st Block,Malleswaram - Navrang - Iskcon,12.9767,77.5713,13.0000,77.5500
+401K,Yelahanka to Kengeri,Hebbal - Laggere - Vijayanagar,13.1007,77.5963,12.9176,77.4837
+500K,Hebbal to KR Puram,Nagawara - Hennur - Horamavu,13.0358,77.5970,13.0100,77.7000
+368,Majestic to Bannerghatta,Dairy Circle - Jayanagar - JP Nagar,12.9767,77.5713,12.8300,77.5700
+276A,Majestic to Vidyaranyapura,Yeshwanthpur - BEL - BEL Circle,12.9767,77.5713,13.0800,77.5500
+335S,Majestic to ITPL,Indiranagar - Marathahalli - Kundalahalli,12.9767,77.5713,12.9800,77.7300
+252,Majestic to Peenya 2nd Stage,Yeshwanthpur - Jalahalli Cross - TVS,12.9767,77.5713,13.0300,77.5100
+340,Majestic to Electronic City Phase 2,Silk Board - HSR Layout - Singasandra,12.9767,77.5713,12.8300,77.6800
+280,Majestic to Sahakarnagar,Hebbal - Kodigehalli - Byatarayanapura,12.9767,77.5713,13.0600,77.5800
+300,Majestic to KR Puram,Shivajinagar - Frazer Town - Banaswadi,12.9767,77.5713,13.0000,77.7000
+210A,Majestic to Banashankari 3rd Stage,Jayanagar - JP Nagar - Kathreguppe,12.9767,77.5713,12.9200,77.5500
+401M,Yelahanka to Malleswaram,Hebbal - RT Nagar - Cantonment,13.1007,77.5963,12.9900,77.5700
+500B,Hebbal to Banashankari,Marathahalli - Silk Board - BTM,13.0358,77.5970,12.9156,77.5736
+375,Majestic to Kengeri Satellite Town,Mysore Road - Nayandahalli - RVCE,12.9767,77.5713,12.9100,77.4700
+291,Majestic to Jakkur,Hebbal - Sahakarnagar - Amruthahalli,12.9767,77.5713,13.0700,77.6000
+310,Majestic to Whitefield,Old Airport Road - Marathahalli - Varthur,12.9767,77.5713,12.9600,77.7500
+225,Majestic to Vijayanagar,Magadi Road - Rajajinagar - KHB Colony,12.9767,77.5713,12.9700,77.5300
+401N,Yelahanka to Hebbal,Allalasandra - GKVK - Kodigehalli,13.1007,77.5963,13.0358,77.5970
+500E,Hebbal to Marathahalli,Nagawara - Hennur - KR Puram,13.0358,77.5970,12.9500,77.7000
+366,Majestic to Gottigere,Dairy Circle - JP Nagar - Hulimavu,12.9767,77.5713,12.8500,77.5800
+273,Majestic to Jalahalli Village,Malleswaram - Yeshwanthpur - BEL,12.9767,77.5713,13.0500,77.5300
+334,Majestic to Kadugodi,Indiranagar - Marathahalli - Hope Farm,12.9767,77.5713,12.9900,77.7600
+255,Majestic to Yeshwanthpur,Malleswaram - 18th Cross - IISc,12.9767,77.5713,13.0200,77.5500
+350,Majestic to Silk Board,Richmond Circle - Koramangala - Madiwala,12.9767,77.5713,12.9172,77.6228
+288,Majestic to Yelahanka,Hebbal - Byatarayanapura - Allalasandra,12.9767,77.5713,13.1000,77.5900
+320,Majestic to Marathahalli,Domlur - HAL - Yamalur,12.9767,77.5713,12.9500,77.7000
+212,Majestic to Jayanagar 4th Block,Town Hall - Lalbagh - Ashoka Pillar,12.9767,77.5713,12.9300,77.5800
+401P,Yelahanka to Rajajinagar,Hebbal - Yeshwanthpur - Mahalakshmi Layout,13.1007,77.5963,12.9900,77.5400
+500F,Hebbal to ITPL,KR Puram - Mahadevapura - Hoodi,13.0358,77.5970,12.9800,77.7300
+367,Majestic to JP Nagar,Dairy Circle - Jayanagar - Sarakki,12.9767,77.5713,12.9000,77.5800
+275,Majestic to BEL Circle,Malleswaram - Yeshwanthpur - Mathikere,12.9767,77.5713,13.0300,77.5600
